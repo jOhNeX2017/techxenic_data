@@ -1,0 +1,233 @@
+[{
+		"id": 0,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex Variable-I -Index.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 1,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.1- Introduction- Complex Number, Function of Complex Number, Limit.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 2,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.2- Continuity of a function of Complex Number.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 3,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.3- Differentiability of a function of Complex Number.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 4,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.4- Analytic Function & C-R equations.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 5,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.5- Orthogonal Curves, Harmonic Function & Conjugate.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 6,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.6- Milne Thomson Method.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 7,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.7- Mapping & Conformal Mapping.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 8,
+		"module_name": "module4",
+		"topic_name": "Complex Variable",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 4 Complex variable-I - Topic 4.8- Mobius Transformation.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 9,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II- Index.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 10,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II- Index.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 11,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.1-Complex Integral, Line Integral.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 12,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.2-Cauchy Integral Theorem.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 13,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.3-Cauchy Integral Formula, Liouvelly's Theorem & cauchy inequility theorem.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 14,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.4-Taylor's Series.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 15,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.5-Laurent Series.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 16,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.6-Singularities & Classification-P-1.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 17,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.6-Singularities & Classification-P-2.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 18,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.7-Residues & Method to find residues.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 19,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.8-Cauchy Residue Theorem.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 20,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.9-Evaluation of real integral type-1.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 21,
+		"module_name": "module5",
+		"topic_name": "Complex Variable 2",
+		"document_type": "pdf",
+		"pdf_link": "pdf/Module 5 Complex variable-II - Topic 5.10-Evaluation of real integral type-2.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 22,
+		"module_name": "Sample Paper",
+		"topic_name": "Sample paper-1 KAS-203 Session 2019-20.pdf",
+		"document_type": "pdf",
+		"pdf_link": "pdf/sample Paper-1 KAS-203 Session 2019-20.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 23,
+		"module_name": "Sample Paper",
+		"topic_name": "Sample paper-2 KAS-203 Session 2019-20.pdf",
+		"document_type": "pdf",
+		"pdf_link": "pdf/sample Paper-2 KAS-203 Session 2019-20.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 24,
+		"module_name": "Sample Paper",
+		"topic_name": "Sample Paper-3 KAS-203 Session 2019-20.pdf",
+		"document_type": "pdf",
+		"pdf_link": "pdf/sample paper-3 KAS-203 Session 2019-20.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 25,
+		"module_name": "Sample Paper",
+		"topic_name": "Sample Paper-4 KAS-203 Session 2019-20.pdf",
+		"document_type": "pdf",
+		"pdf_link": "pdf/sample paper-4 KAS-203 Session 2019-20.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 26,
+		"module_name": "Previous Year Paper",
+		"topic_name": "UNIVERSITY EXAM PAPER OF MATHEMATICS-II-KAS-203 SESSION 2018-19",
+		"document_type": "pdf",
+		"pdf_link": "pdf/UNIVERSITY EXAM PAPER OF MATHEMATICS-II-KAS-203 SESSION 2018-19.pdf",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 27,
+		"module_name": "",
+		"topic_name": "",
+		"document_type": "video",
+		"video_link": "",
+		"created_on": "2020-07-28"
+	},
+	{
+		"id": 28,
+		"module_name": "",
+		"topic_name": "",
+		"document_type": "audio",
+		"audio-link": "",
+		"created_on": "2020-07-28"
+	}
+]
